@@ -1,7 +1,7 @@
-token=process.env.token
+client.login(process.env.TOKEN)
 owner=351366504068939777
 prefix=-
 game= ♬ -help ♬
 stayinchannel=true
 songinstatus=true
-token=process.env.token
+client.login(process.env.TOKEN)
