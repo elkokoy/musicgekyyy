@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
-prefix= t
-game= !thelp
+﻿token=process.env.token 
+owner=351366504068939777 
+prefix= -
+game= ♥ -help ♥
 stayinchannel=true
 songinstatus=true 
