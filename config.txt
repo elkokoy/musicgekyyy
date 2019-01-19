@@ -1,4 +1,4 @@
-﻿token=process.env.token
+﻿token=NTI1OTg4MDEwOTc4ODM2NDgw.DyROug.3r39xZm3mYD12Dz3VX1tHaesMkk
 owner=351366504068939777 
 prefix= -
 game= ♥ -help ♥
